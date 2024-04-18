@@ -40,6 +40,7 @@ export default function Game() {
     );
   }
 
+  //my comment
   //Animation code - if animateImages is true then we call the generateImage function every 5 seconds
   useEffect(() => {
     const interval = setInterval(async () => {
